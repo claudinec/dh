@@ -12,7 +12,7 @@ real ?PhD proposal.
 Links
 =====
 
-* [arts-humanities.net][(http://www.arts-humanities.net/): Engage with
+* [arts-humanities.net](http://www.arts-humanities.net/): Engage with
   digital learning and research
 
 * [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/)
