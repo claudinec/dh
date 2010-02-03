@@ -1,0 +1,9 @@
+Wikis: Wikipedia, Mediawiki and others
+
+Wikipedia is the largest (?) and best-known wiki, but it is by no means the only example of how a wiki can function. Neither is it the only medium for public, collaborative, dynamic content editing — see discussion of CMSes.
+
+Many different wiki engines available.
+
+The original wiki http://c2.com/cgi/wiki
+
+[note on names](http://www.mediawiki.org/wiki/Wikipmediawiki)
