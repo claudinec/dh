@@ -5,9 +5,29 @@ TODO
 
 Pseudo research proposal in which I state what I know about public
 history and the digital humanities and some of the questions I would
-like to ask about how these two fields might intersect. This can help me
-prepare my presentation for LCA2010 and possibly form the basis of a
-real ?PhD proposal.
+like to ask about how these two fields might intersect. This could
+form the basis of a real ?PhD proposal.
+
+Names
+=====
+
+'Digital humanities' or 'humanities computing'? Questions about
+nomenclature.
+
+Some thoughts:
+
+* [arts-humanities.net](http://www.arts-humanities.net/deliberative_humanism_social_software_digital_humanities)
+
+Research needs
+==============
+
+'we still lack seminal studies that demonstrate real research breakthroughs that wouldn't have been possible without computer assisted analysis' -- [Ian Anderson (UK)](http://www.arts-humanities.net/forumtopic/ian_anderson_association_history_computing)
+
+Challenges
+==========
+
+[Problems of acknowledgement and citation](http://www.arts-humanities.net/forumtopic/shut_all_our_websites_down)
+
 
 Links
 =====
