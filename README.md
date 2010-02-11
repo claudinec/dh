@@ -18,6 +18,8 @@ Some thoughts:
   
 * [humanities computing or humanistic informatics?](http://www.iath.virginia.edu/hcs/terminology.html) (from 1999)
 
+* [definitions at Taporwiki](http://tapor.ualberta.ca/taporwiki/index.php/How_do_you_define_Humanities_Computing_/_Digital_Humanities%3F)
+
 # Research needs
 
 'we still lack seminal studies that demonstrate real research
